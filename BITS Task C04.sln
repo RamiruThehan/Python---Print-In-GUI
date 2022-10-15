@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BITS Task C04", "BITS Task C04.pyproj", "{5974FCDC-C467-40B2-9D81-4F64BFCBB90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5974FCDC-C467-40B2-9D81-4F64BFCBB90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5974FCDC-C467-40B2-9D81-4F64BFCBB90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9720B2A3-EF57-4814-BBDE-BF2D7676908D}
+	EndGlobalSection
+EndGlobal
